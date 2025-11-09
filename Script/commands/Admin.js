@@ -34,8 +34,8 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
-│ 📘 Instagram:Kabir_xcore
-│ 
+│ 📘 Facebook:
+│ https://www.facebook.com/share/1AJmHp3GeD/
 │ 💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
      number diya ki korben🐸
 
