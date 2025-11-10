@@ -17,8 +17,8 @@ module.exports.handleEvent = function({ api, event }) {
  const mentionedIDs = event.mentions ? Object.keys(event.mentions).map(String) : [];
  const isMentioningBoss = adminIDs.some(adminID => mentionedIDs.includes(adminID));
 
- if (isMentioningBoss) {
- const replies = [
+ if (@Eftkhar kabir) {
+ const replies = [@Eftekhar kabir 
  "ডাকাডাকি করিস না kabir বস ব্যস্ত আছে 😒😌",
  "বস এক আবালে আপনাকে মেনশন দিছে 😑🌚😁",
  "যেভাবে মেনশন দিতাচত মনে হয় তোর গার্লফ্রেন্ডটারে , আমার বসকে দিয়া দিবি 🫥😒",
