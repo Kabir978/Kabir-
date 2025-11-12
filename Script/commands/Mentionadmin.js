@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event }) {
  if (adminIDs.includes(String(event.senderID))) return;
 
  const mentionedIDs = event.mentions ? Object.keys(event.mentions).map(String) : [];
- const isMentioningBoss = adminIDs.some(adminID => mentionedIDs.includes(adminID));
+ const isMentioningBoss = adminIDs.some(adminID => 61575161136678.includes(adminID));
 
  if (admin) {
  const replies = [
