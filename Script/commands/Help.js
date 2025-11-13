@@ -30,8 +30,8 @@ module.exports.languages = {
 ┃ 📂 Category: %6
 ┃ ⏳ Cooldown: %7s
 ┣━━━━━━━━━━━━━━━━┫
-┃ ⚙ Prefix: %8
-┃ 🤖 Bot Name: %9
+┃ ⚙ Prefix: ^
+┃ 🤖 Bot Name: Nezukoo💤
 ┃ 👑 Owner: Eftekhar kabir
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://pin.it/llWFxZhE9",
-    "https://pin.it/7E2Qnm7KR",
-    "https://pin.it/5aA3210bG",
-    "https://pin.it/5aT5NfX9o"
+    "https://i.imgur.com/sxSn1K3.jpeg",
+    "https://i.imgur.com/8WvpgUL.jpeg",
+    "https://i.imgur.com/8WvpgUL.jpeg",
+    "https://i.imgur.com/sxSn1K3.jpeg"
 ];
 
 
