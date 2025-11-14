@@ -20,7 +20,7 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
 
   const responses = {
     "hanif": "Pookie কইরে 🌚",
-    "Jarvis": "System on...✅",
+    "sifat": "তোর নানীরে চাই🌚🫦",
     "Yoo": "Welcome boss",
     "Ready": "Ready for my dark side💀🍷",
     "hi": "আসসালামুআলাইকুম 😊",
