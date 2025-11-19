@@ -1,4 +1,18 @@
-
+module.exports.config = {
+  name: "hot",
+  version: "1.0.0",
+  hasPermssion: 0,
+  credits: "Kabir⚡",
+  description: "hot video",
+  commandCategory: "admin",
+  usages: "horny + hot + sex vedio",
+  cooldowns: 5,
+  dependencies: {
+    request: '',
+    "fs-extra": '',
+    axios: ''
+  }
+};
 
 module.exports.run = async function({ api, event }) {
   const request = global.nodemodule["request"];
@@ -138,3 +152,4 @@ module.exports.run = async function({ api, event }) {
       api.sendMessage("Bokasoda video Dawonlod korte pari nai🤧\nPlease aktu por hat mara🥵.", event.threadID);
     });
 };
+      
