@@ -10,8 +10,8 @@ Assalamualaikum Everyone!
 ![Box-shaped Image](https://files.catbox.moe/cf5fpw.jpg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">Kabir⚡ BOT</span><br>
+  <span> Develop By  Eftekhar kabir </span>
 </p>
 
 _____
