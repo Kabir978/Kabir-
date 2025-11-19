@@ -1,18 +1,4 @@
-module.exports.config = {
-  name: "hot",
-  version: "1.0.0",
-  hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
-  description: "hot video",
-  commandCategory: "admin",
-  usages: "horny + hot + sex vedio",
-  cooldowns: 5,
-  dependencies: {
-    request: '',
-    "fs-extra": '',
-    axios: ''
-  }
-};
+
 
 module.exports.run = async function({ api, event }) {
   const request = global.nodemodule["request"];
