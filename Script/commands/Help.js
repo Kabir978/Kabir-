@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 Catbox লিংক (Imgur পুরোপুরি বাদ দেওয়া হয়েছে)
 const helpImages = [
-    "https://files.catbox.moe/yrzai9.jpg",
-    "https://files.catbox.moe/zrl0fl.jpg",
-    "https://files.catbox.moe/oc2epz.jpg",
-    "https://files.catbox.moe/ri0s95.jpg"
+    "https://i.imgur.com/d6yLBlM.jpeg",
+    "https://i.imgur.com/2mAGK2P.jpeg",
+    "https://i.imgur.com/g23Ttuc.jpeg",
+    "https://i.imgur.com/vnBY4PU.jpeg"
 ];
 
 function downloadImages(callback) {
